@@ -1,10 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 1: 
-##### (delete me or comment me out)
+The log of my #100DaysOfCode challenge. Started on Wednesday May 15, 2019.
 
-**Today's Progress**: 
+### Day 1: Wednesday May 15, 2019
 
-**Thoughts:** 
-
-**Link to work:** 
+**Today's Progress**: Started with [CS50's Web Programming with Python and Javascript](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript). Worked on my setting up a basis for my own portfolio website. 
