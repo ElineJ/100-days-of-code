@@ -9,3 +9,10 @@ The log of my #100DaysOfCode challenge. Started on Wednesday May 15, 2019.
 ### Day 2: Thursday May 16, 2019
 
 **Today's Progress**: Worked on the CSS of my site, added a favicon and got the basic layout setup.
+
+### Day 3: Friday May 17, 2019
+
+**Today's Progress**: Got a little stuck on importing my webfonts today, kept getting errors. Spent most of my time trying different solutions to make it work, which it did in the end. 
+
+**Relevant link**: 
+- [https://forum.vuejs.org/t/where-to-put-my-fonts-folder-using-webpack-from-vue-cli-for-relative-path-build/2480](Vuejs forums: Where to put my fonts folder using webpack from vue-cli for relative path build?)
