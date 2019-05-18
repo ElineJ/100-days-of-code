@@ -16,3 +16,6 @@ The log of my #100DaysOfCode challenge. Started on Wednesday May 15, 2019.
 
 **Relevant link**: 
 - [https://forum.vuejs.org/t/where-to-put-my-fonts-folder-using-webpack-from-vue-cli-for-relative-path-build/2480](Vuejs forums: Where to put my fonts folder using webpack from vue-cli for relative path build?)
+
+### Day 4: Saturday May 18, 2019
+**Today's Progress:** Added emoji, worked on mobile layout and added a new page to my website.
